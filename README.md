@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Shivam Choudhury , fourth-year undergraduate in IIT KGP
-- 📫 How to reach me https://www.linkedin.com/in/shivam-choudhury/
+- 👋 Hi, I’m Shivam Choudhury
